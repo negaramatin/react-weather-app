@@ -10,6 +10,7 @@ export default function App() {
         <a
           href="https://www.linkedin.com/in/negar-matin-b7a38a261/"
           target="_blank"
+          rel="noreferrer"
         >
           Negar Matin
         </a>{" "}
@@ -17,6 +18,7 @@ export default function App() {
         <a
           href="https://github.com/negaramatin/react-weather-app"
           target="_blank"
+          rel="noreferrer"
         >
           open-soureced on GitHub
         </a>
