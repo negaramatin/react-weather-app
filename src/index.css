@@ -1,3 +1,19 @@
 body {
   font-family: arial, sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/083/235/original/364641-4k-wallpaper_%281%29.jpg?1685089298");
+  background-size: cover;
+  background-color: #5585b5;
+  color: #000;
+  font-weight: 300px;
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  border: 1px solid #dadde1;
+  padding: 16px;
+  border-radius: 4px;
 }
